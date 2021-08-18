@@ -1,0 +1,7 @@
+Instrucciones de instalación:
+
+-Descargue el archivo .rar
+-Descomprima el archivo en la carpeta deseada 
+-Dele click derecho sobre el archivo AppInventario.exe y cree un archivo un acceso directo(opcional)
+-Copiar acceso directo en el escritorio(opcional)
+-Dele doble click sobre el archivo AppInventario.exe o (el acceso directo)
